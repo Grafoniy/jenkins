@@ -1,1 +1,1 @@
-select * from clan order
+select * from clan orderasdasd
