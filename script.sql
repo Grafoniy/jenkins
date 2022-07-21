@@ -1,1 +1,1 @@
-select * from family order by auto_wiki limit 3 ;
+select * from clan order by id limit 3 ;
